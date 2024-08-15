@@ -20,9 +20,8 @@ I'm on a continuous learning journey, and I'm always looking for opportunities t
 
 ## 📊 My GitHub Stats
 
-![Total Contributors](https://img.shields.io/github/contributors/hieule1704/hieule1704?style=for-the-badge)
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=hieule1704&theme=highcontrast&fire=red)
-![Longest Streak](https://github-readme-streak-stats.herokuapp.com/?user=hieule1704&theme=highcontrast&fire=green&sideLabels=red)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hieule1704&theme=light&background=ffffff)](https://git.io/streak-stats)
+
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/chi-hieu-le-8b1040297)
